@@ -3,10 +3,10 @@
 <auditResultSet
 		version="1.0"
 		baseName="edu.towson.cis.cosc442.project4.coffeemaker"
-		name="edu.towson.cis.cosc442.project4.coffeemaker at 3/28/16 5:33 PM"
+		name="edu.towson.cis.cosc442.project4.coffeemaker at 3/28/16 6:14 PM"
 		systemDefined="false"
-		startTime="1459200830004"
-		endTime="1459200830061"
+		startTime="1459203247001"
+		endTime="1459203247151"
 		cancelled="false"
 		outOfMemory="false">
 	<analysis
@@ -28,9 +28,9 @@
 		<resource
 				type="1"
 				path="/CoffeeMaker/src/edu/towson/cis/cosc442/project4/coffeemaker/Main.java"
-				characterCount="10496"
-				lineCount="302"
-				nonCommentLineCount="223"
+				characterCount="10504"
+				lineCount="303"
+				nonCommentLineCount="224"
 				authors="Josh"/>
 		<resource
 				type="1"
@@ -59,8 +59,8 @@
 			violationId="com.instantiations.assist.eclipse.audit.logExceptions.notLogged"
 			targetType="com.instantiations.assist.eclipse.analysis.analysisTargetType.compilationUnit"
 			target="/CoffeeMaker/src/edu/towson/cis/cosc442/project4/coffeemaker/Main.java"
-			highlightStart="9613"
-			highlightEnd="9626"
+			highlightStart="9621"
+			highlightEnd="9634"
 			alternateDirectiveIndices=""
 			severity="1"
 			hasBeenResolved="false"/>
@@ -70,8 +70,8 @@
 			violationId="com.instantiations.assist.eclipse.audit.logExceptions.notLogged"
 			targetType="com.instantiations.assist.eclipse.analysis.analysisTargetType.compilationUnit"
 			target="/CoffeeMaker/src/edu/towson/cis/cosc442/project4/coffeemaker/Main.java"
-			highlightStart="10022"
-			highlightEnd="10045"
+			highlightStart="10030"
+			highlightEnd="10053"
 			alternateDirectiveIndices=""
 			severity="1"
 			hasBeenResolved="false"/>
