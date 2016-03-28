@@ -18,5 +18,4 @@ INDEX VERSION 1.127+C:\Users\Dan\Documents\GitHub\cosc442-Hendrix-project4\.meta
 1063230161.index
 2445747412.index
 3449116704.index
-1414724325.index
 2585328351.index
