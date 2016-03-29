@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RecipeTest" project="CoffeeMaker" tests="21" started="21" failures="0" errors="0" ignored="0">
+  <testsuite name="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.02">
+    <testcase name="testSetAmtMilk_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.008"/>
+    <testcase name="testSetAmtMilk_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetAmtCoffee_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetAmtCoffee_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.001"/>
+    <testcase name="testGetAmtCoffee_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testGetPrice_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.001"/>
+    <testcase name="testGetAmtSugar_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testGetAmtMilk_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.002"/>
+    <testcase name="testSetAmtChocolate_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetAmtChocolate_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testToString_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetName_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.001"/>
+    <testcase name="testSetAmtSugar_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetAmtSugar_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testEquals_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.002"/>
+    <testcase name="testEquals_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.003"/>
+    <testcase name="testEquals_3" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.001"/>
+    <testcase name="testGetName_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testGetAmtChocolate_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetPrice_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.0"/>
+    <testcase name="testSetPrice_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.RecipeTest" time="0.001"/>
+  </testsuite>
+</testrun>

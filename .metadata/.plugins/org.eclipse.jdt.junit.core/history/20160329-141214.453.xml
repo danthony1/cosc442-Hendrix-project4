@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestAll" project="CoffeeMaker" tests="23" started="23" failures="0" errors="0" ignored="0">
+  <testsuite name="edu.towson.cis.cosc442.project4.coffeemaker.TestAll" time="0.056">
+    <testsuite name="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0">
+      <testcase name="testAddRecipe1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+      <testcase name="testEditRecipe1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+      <testcase name="testDeleteRecipe1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+      <testcase name="testCheckInventory1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+      <testcase name="testpurchaseBeverage1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+      <testcase name="testAddInventory1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+      <testcase name="testGetRecipeForName_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.CoffeeMakerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.056">
+      <testcase name="testGetChocolate_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.009"/>
+      <testcase name="testGetSugar_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.0"/>
+      <testcase name="testEnoughIngredients_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testEnoughIngredients_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testInventory_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testSetSugar_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testSetSugar_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testSetChocolate_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.025"/>
+      <testcase name="testSetChocolate_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.0"/>
+      <testcase name="testSetCoffee_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testSetCoffee_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.0"/>
+      <testcase name="testGetCoffee_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.0"/>
+      <testcase name="testToString_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.001"/>
+      <testcase name="testSetMilk_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.004"/>
+      <testcase name="testSetMilk_2" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.006"/>
+      <testcase name="testGetMilk_1" classname="edu.towson.cis.cosc442.project4.coffeemaker.InventoryTest" time="0.005"/>
+    </testsuite>
+  </testsuite>
+</testrun>
