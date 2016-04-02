@@ -67,6 +67,36 @@ public class RecipeTest {
 		boolean result = r1.equals(r);
 
 		// add additional test code here
+		assertEquals(true, result);
+	}
+	
+	@Test
+	public void testEquals_4()
+		throws Exception {
+		Recipe r1 = new Recipe();
+		r1.setName("");
+		
+		Recipe r = new Recipe();
+		r.setName("Coffee");
+
+		boolean result = r1.equals(r);
+
+		// add additional test code here
+		assertEquals(false, result);
+	}
+	
+	@Test
+	public void testEquals_5()
+		throws Exception {
+		Recipe r1 = new Recipe();
+		r1.setName(null);
+		
+		Recipe r = new Recipe();
+		r.setName("Coffee");
+
+		boolean result = r1.equals(r);
+
+		// add additional test code here
 		assertEquals(false, result);
 	}
 
@@ -222,6 +252,19 @@ public class RecipeTest {
 
 		// add additional test code here
 	}
+	
+	@Test
+	public void testSetAmtChocolate_3()
+		throws Exception {
+		Recipe fixture = new Recipe();
+		fixture.setName("");
+		int amtChocolate = 0;
+		
+		fixture.setAmtChocolate(amtChocolate);
+		assertEquals(fixture.getAmtChocolate(), 0, .001);
+		
+		// add additional test code here
+	}
 
 	/**
 	 * Run the void setAmtCoffee(int) method test.
@@ -255,6 +298,18 @@ public class RecipeTest {
 		Recipe fixture = new Recipe();
 		fixture.setName("");
 		int amtCoffee = 1;
+
+		fixture.setAmtCoffee(amtCoffee);
+
+		// add additional test code here
+	}
+	
+	@Test
+	public void testSetAmtCoffee_3()
+		throws Exception {
+		Recipe fixture = new Recipe();
+		fixture.setName("");
+		int amtCoffee = 0;
 
 		fixture.setAmtCoffee(amtCoffee);
 
@@ -298,6 +353,18 @@ public class RecipeTest {
 
 		// add additional test code here
 	}
+	
+	@Test
+	public void testSetAmtMilk_3()
+		throws Exception {
+		Recipe fixture = new Recipe();
+		fixture.setName("");
+		int amtMilk = 0;
+
+		fixture.setAmtMilk(amtMilk);
+
+		// add additional test code here
+	}
 
 	/**
 	 * Run the void setAmtSugar(int) method test.
@@ -331,6 +398,18 @@ public class RecipeTest {
 		Recipe fixture = new Recipe();
 		fixture.setName("");
 		int amtSugar = 1;
+
+		fixture.setAmtSugar(amtSugar);
+
+		// add additional test code here
+	}
+	
+	@Test
+	public void testSetAmtSugar_3()
+		throws Exception {
+		Recipe fixture = new Recipe();
+		fixture.setName("");
+		int amtSugar = 0;
 
 		fixture.setAmtSugar(amtSugar);
 
